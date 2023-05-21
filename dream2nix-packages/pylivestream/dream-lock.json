@@ -1,0 +1,36 @@
+{
+  "_generic": {
+    "defaultPackage": "pylivestream",
+    "invalidationHash": "25fc0ddc9fa1c55a38a45ba1bee0b6af620c4b844b9ab139bb0d85912b13eeee",
+    "location": "",
+    "packages": {
+      "pylivestream": ""
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "python"
+  },
+  "_subsystem": {
+    "application": false,
+    "pythonAttr": "python310",
+    "sourceFormats": {
+      "setuptools": "wheel",
+      "wheel": "wheel"
+    }
+  },
+  "sources": {
+    "setuptools": {
+      "67.8.0": {
+        "hash": "sha256-XfYb8wuxDG91brGefJ87RzBR9I23f92+Bv8sowffmm8=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/s/setuptools/setuptools-67.8.0-py3-none-any.whl"
+      }
+    },
+    "wheel": {
+      "0.40.0": {
+        "hash": "sha256-0jayDny1ItryOQ+oTFXuqBxcMBkPkPKa4soa2DVb8kc=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/w/wheel/wheel-0.40.0-py3-none-any.whl"
+      }
+    }
+  }
+}
